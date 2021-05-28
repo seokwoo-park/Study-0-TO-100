@@ -1,7 +1,7 @@
 # WEB
 
 ## WHAT IS A WEB? 
-### (웹이란 무엇인가?)
+### (웹 이란 무엇인가?)
 <br/>
 
   World Wide Web, which is also known as a Web, is a collection of websites or web pages stored in web servers and connected to local computers through the internet.
@@ -54,12 +54,13 @@ So, Internet includes the Web <br></br>
 
 웹에서는 HTML 언어를 사용하여 작성된 하이퍼텍스트 문서를 **웹 페이지(web page)** 라고 부른다.
 
-이러한 웹 페이지들 중에서 서로 관련된 내용으로 작성된 웹 페이지들의 집합을 **웹 사이트(web site)** 라고 합니다.
+이러한 웹 페이지들 중에서 서로 관련된 내용으로 작성된 웹 페이지들의 집합을 **웹 사이트(web site)** 라고 한다.
 
-웹은 이렇게 작성된 수많은 웹 페이지들이 하이퍼링크(hyperlink)를 통해 서로 연결되어 구성됩니다.
+웹은 이렇게 작성된 수많은 웹 페이지들이 하이퍼링크(hyperlink)를 통해 서로 연결되어 구성된다.
 
-사용자가 웹 페이지에 포함된 하이퍼링크를 따라 다른 웹 페이지들로 계속하여 이동하는 것을 웹 서핑(web surfing)이라고 부르며, 이때 사용자가 웹 페이지를  검색하기 위해 사용하는 프로그램을 웹 브라우저(web browser)라고 합니다.
+사용자가 웹 페이지에 포함된 하이퍼링크를 따라 다른 웹 페이지들로 계속하여 이동하는 것을 웹 서핑(web surfing)이라고 부르며, 이때 사용자가 웹 페이지를  검색하기 위해 사용하는 프로그램을 웹 브라우저(web browser)라고 한다.
 
+간략히 요약하자면, 인터넷>웹>웹사이트>웹 순으로 묶어 나열 할 수 있다.
 
 **Reference**
 **참조**<br/>
