@@ -63,4 +63,8 @@ IE 하위버전에서 html5를 사용하려고 라이브러리를 사용하는 �
 
 **모든 브라우저에서 똑같이 구현하려는 집착은 사용성에 저하를 일으킬 수 있다.**
 
+## 참조 
+(https://okayoon.tistory.com/entry/%ED%81%AC%EB%A1%9C%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95cross-browsing)
+(https://velog.io/@seochanh/00003)
+(https://13akstjq.github.io/js/2019/12/10/browser-%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95.html)
 
