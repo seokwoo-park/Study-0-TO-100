@@ -21,7 +21,7 @@
 물론 모바일 시대에 들어서는 이모지 등 그림 문자를 이미지로 자동 변환시키는 기능등 여러가지 기능들이 있지만, 제일 기초적이고 중요한 기능에 대해 서술하였다.
 
 웹 브라우저가 하는 일을 간단하게 그린 만화..
-<img src="https://w.namu.la/s/cea4ca1436370308b88738d63347348d5b1779efb874a8202f250dea24371c7fbfeb0e2497dc55727d6a3b3faee15ef4b985724943e8686aeaa4dd3a6e3b7fe64a2d7af674488e7039f0c143f0b7dc46d862cea132329381853a5641c87a00c9c406f26555795a55a3fb46fcf5ec1924">
+<img src="https://w.namu.la/s/cea4ca1436370308b88738d63347348d5b1779efb874a8202f250dea24371c7fbfeb0e2497dc55727d6a3b3faee15ef4b985724943e8686aeaa4dd3a6e3b7fe64a2d7af674488e7039f0c143f0b7dc46d862cea132329381853a5641c87a00c9c406f26555795a55a3fb46fcf5ec1924" width=100%>
 <br/>
 
 ## Architecture of Browser
