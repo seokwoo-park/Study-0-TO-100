@@ -1,5 +1,12 @@
 # HTTP vs HTTPS
 
+지난 2014년 Google 에서는 HTTP를 HTTPS로 바꾸라고 권고한다. 
+
+HTTPS로 전환을 장려하기 위해서 Google 에서는 HTTPS를 사용하는 웹 사이트에 대해서 검색 엔진 최적화(SEO: Search Engine Optimization)을 통해 HTTPS를 상위 노출하고 시키고, 동일한 키워드의 페이지 중에서 HTTPS 기반 사이트가 우선 순위로 노출된다.
+
+이는 사실상 HTTP를 사용하는 웹 사이트에게 벌점을 주는 것과 마찬가지인것이다. 
+
+그럼 HTTPS는 무엇이며 HTTPS 와 무엇이 다른가?
 ## About
 
 구글에 접속해 주소창의 주소를 복사하면 다음과 같이 복사가된다.
